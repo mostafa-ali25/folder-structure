@@ -1,3 +1,4 @@
+//TODO: left sidebar to be here
 import "./globals.css"
 
 import type { Metadata } from "next"

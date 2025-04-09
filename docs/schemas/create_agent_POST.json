@@ -1,0 +1,48 @@
+{
+    "agent": {
+        "general": {
+            "name": "CRM Zendesk",
+            "avatar": "CRM-Zendesk-avatar",
+            "skills": "you lead with confidence and strategic vision",
+            "persona": "1",
+            "response_style": "4"
+        },
+        "knowledge": {
+            "text": "CRM Zendesk",
+            "attachments": [
+                "file-name.pdf",
+                "file-name_2.pdf",
+                "file-name_3.pdf"
+            ],
+            "link": "https://websitexample.com"
+        },
+        "tools": {
+            "capabilities": [
+                "2",
+                "3"
+            ],
+            "channels": [
+                "4",
+                "5"
+            ]
+        },
+        "publish": {
+            "webapp_link": "https://bot.flair.com/id3423423424gjkfjkres22121",
+            "copilot_link": "https://bot.flair.com/wedgit/id3423423424gjkfjkres22121"
+        },
+        "behaviors": {
+            "appearance": {
+                "color": "#f00",
+                "first_message": "Welcome you to our chat! I will help you.",
+                "display_chat_voice": false,
+                "allow_attach_files": true,
+                "show_agent_thinking": false
+            },
+            "triggers":{},
+            "guardrails":{},
+            "language_model":"3",
+            "memory":"null/3",
+            "context_length":"3" 
+        }
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "agents": [
+        {
+            "id": "Zendesk-329873",
+            "avatar": "Zendesk.jpg", 
+            "name": "CRM Zendesk",
+            "description": "smart agent that provides insights ",
+            "isRecomended": true,
+
+            "isTopUsed": true,
+            "category": "1/healthcare", 
+            "creator": "obadaquraan995@gmail.com",
+            "managed_by_admin": true,
+            "privacy_level": "public" 
+        }, 
+        {}
+        
+    ]
+}
